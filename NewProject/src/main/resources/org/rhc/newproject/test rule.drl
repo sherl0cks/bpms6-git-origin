@@ -1,0 +1,13 @@
+package com.rhc.testproject1;
+
+
+rule "fart"
+ruleflow-group "test"
+	when
+	
+
+	then
+
+		System.out.println( "Hello from rule" );
+	
+end
