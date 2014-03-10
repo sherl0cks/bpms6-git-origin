@@ -8,6 +8,6 @@ ruleflow-group "test"
 
 	then
 
-		System.out.println( "Hello from rule" );
+		System.out.println( "Hello from rule 2 and a change in Workbench" );
 	
 end
