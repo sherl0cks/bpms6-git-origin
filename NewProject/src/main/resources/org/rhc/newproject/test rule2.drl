@@ -8,6 +8,6 @@ ruleflow-group "test"
 		$string : String()
 	then
 
-		System.out.println( "There is a string + "  );
+		System.out.println( "There is a string " + $string  );
 	
 end
