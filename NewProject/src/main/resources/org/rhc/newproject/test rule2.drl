@@ -4,10 +4,10 @@ package com.rhc.testproject1;
 rule "fart 2"
 ruleflow-group "test"
 	when
-	
-
+		
+		String()
 	then
 
-		System.out.println( "Hello from rule 2 and a change in Workbench" );
+		System.out.println( "There is a string" );
 	
 end
