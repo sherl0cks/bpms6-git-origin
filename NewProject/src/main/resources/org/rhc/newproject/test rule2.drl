@@ -5,9 +5,9 @@ rule "fart 2"
 ruleflow-group "test"
 	when
 		
-		String()
+		$string : String()
 	then
 
-		System.out.println( "There is a string" );
+		System.out.println( "There is a string + "  );
 	
 end
