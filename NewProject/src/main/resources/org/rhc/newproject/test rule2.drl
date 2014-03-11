@@ -1,7 +1,7 @@
 package com.rhc.testproject1;
 
 
-rule "fart"
+rule "fart 2"
 ruleflow-group "test"
 	when
 	
