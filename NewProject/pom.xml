@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.rhc</groupId>
   <artifactId>NewProject</artifactId>
-  <version>1.3</version>
+  <version>1.4</version>
   <name>NewProject</name>
   <description>Testing the use of a central SCM with BPMS tooling</description>
   <repositories>
